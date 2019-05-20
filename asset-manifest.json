@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/emerge/static/css/main.19393e92.chunk.css",
-    "main.js": "/emerge/static/js/main.561c14d8.chunk.js",
-    "main.js.map": "/emerge/static/js/main.561c14d8.chunk.js.map",
+    "main.js": "/emerge/static/js/main.625a2f5e.chunk.js",
+    "main.js.map": "/emerge/static/js/main.625a2f5e.chunk.js.map",
     "runtime~main.js": "/emerge/static/js/runtime~main.7ff258bd.js",
     "runtime~main.js.map": "/emerge/static/js/runtime~main.7ff258bd.js.map",
     "static/js/2.b41502e9.chunk.js": "/emerge/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/emerge/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/emerge/index.html",
-    "precache-manifest.633e5d28d42c1d5b4625dc2a5a289c3a.js": "/emerge/precache-manifest.633e5d28d42c1d5b4625dc2a5a289c3a.js",
+    "precache-manifest.3cef545798d4c6b765faf71d6e875bf6.js": "/emerge/precache-manifest.3cef545798d4c6b765faf71d6e875bf6.js",
     "service-worker.js": "/emerge/service-worker.js",
     "static/css/main.19393e92.chunk.css.map": "/emerge/static/css/main.19393e92.chunk.css.map",
     "static/media/logo.svg": "/emerge/static/media/logo.5d5d9eef.svg"
