@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0acb2788119ba34bbdeca6ac4af0c349",
+    "revision": "1c3cbfc397f678dc0e208fa60c4f2cb8",
     "url": "/emerge/index.html"
   },
   {
-    "revision": "2d45e071682361849a34",
+    "revision": "fbb2d4e0db1a7914c28c",
     "url": "/emerge/static/css/main.19393e92.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emerge/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "2d45e071682361849a34",
-    "url": "/emerge/static/js/main.2ea17f4f.chunk.js"
+    "revision": "fbb2d4e0db1a7914c28c",
+    "url": "/emerge/static/js/main.561c14d8.chunk.js"
   },
   {
     "revision": "a0df360e425cd183ef35",
