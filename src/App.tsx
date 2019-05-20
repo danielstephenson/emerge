@@ -16,7 +16,7 @@ const App: React.FC = () => {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Learn React change
+					Learn React change 2
 				</a>
 			</header>
 		</div>
