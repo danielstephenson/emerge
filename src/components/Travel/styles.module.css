@@ -1,0 +1,4 @@
+.mapContainer {
+	width: var(--mapWidth);
+	width: var(--mapHeight);
+}

@@ -1,5 +1,6 @@
-import React, { useReducer, useCallback } from "react";
+import React, { useReducer } from "react";
 import Journal, { IEntry } from "./components/Journal";
+import Travel from "./components/Travel";
 import styles from "./App.module.css";
 
 const App: React.FC = () => {
@@ -12,6 +13,7 @@ const App: React.FC = () => {
 	return (
 		<div className={styles.app}>
 			<Journal entries={model.journalEntries} addEntries={addEntries} />
+			<Travel map={"hello"} />
 		</div>
 	);
 };
